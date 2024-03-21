@@ -49,11 +49,5 @@ I'm always eager to learn new things and improve my skills. Currently, I'm focus
 - Exploring the world of backend development with Node.js and Express.js.
 - Curious about serverless architectures and cloud platforms like Firebase.
 
-## 📫 Let's Connect!
-
-While I'm still building my presence on other platforms, you can check out my projects and reach out to me here on GitHub:
-
-- Check out my [personal website] for more information.
-
 Thanks for stopping by! 😊
 
